@@ -66,3 +66,7 @@ event 모듈을 사용하여 자바스크립트 모듈 중 상당수 차지하�
 
 ### Prettier-Solidity
 [Prettier-Solidity](https://github.com/prettier-solidity/prettier-plugin-solidity)
+
+### 
+construtor 은 더이상 Visibility 에 대한 명시가 필요하지 않다.
+[Visibility (public / external) is not needed for constructors anymore:](https://docs.soliditylang.org/en/v0.7.5/070-breaking-changes.html#functions-and-events)
